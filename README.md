@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ThalitaNK
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning C#/.NET
+- 👀 Precisei refazer o meu perfil no GitHub pois perdi os códigos da autenticação de 2 fatores. Nesse ainda não tenho nenhum projeto mas já já estarei atualizando!
 
 
 <!---
