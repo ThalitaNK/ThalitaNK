@@ -9,5 +9,4 @@ Vindo do ecossistema .NET (C#), com forte bagagem em Orientação a Objetos, her
 MEU FOCO ATUAL:
 Mergulhando de cabeça no desenvolvimento Back-end com Java através de um Bootcamp estruturado. Meu objetivo é dominar APIs RESTful, Spring Boot, banco de dados (JDBC) e integrar tudo isso com conceitos de Inteligência Artificial e Copilots.
 
-GitHub: https://github.com/ThalitaNK (Em atualização)
 Linkedin: https://www.linkedin.com/in/thalita-meira-pcd-47ba1721b/
