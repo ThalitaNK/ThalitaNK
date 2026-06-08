@@ -1,16 +1,13 @@
-# Thalita Meira
+OLÁ! EU SOU A THALITA !
 
-Estou fazendo graduação em Análise e Desenvolvimento de sistemas, atualmente faço estágio na empresa Stone Co. trabalhando com C#/.NET! [Perfil em Construção!]
-## Conecte-se comigo 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/thalita-meira-ferreira-47ba1721b/)
+QUEM SOU EU?
+Apaixonada por desafios e na área de tecnologia. Tenho background como Software Engineer Junior, atuando com desenvolvimento e resolução de débitos técnicos. Gosto de resolver problemas complexos com lógica estruturada e código limpo.
 
+MINHA TRILHA EM TECH:
+Vindo do ecossistema .NET (C#), com forte bagagem em Orientação a Objetos, herança, interfaces e manipulação de collections. Tenho experiência prática com Git, GitHub, GitLabs, MongoDB e automação de testes unitários.
 
-## Git Stats 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThalitaNK&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+MEU FOCO ATUAL:
+Mergulhando de cabeça no desenvolvimento Back-end com Java através de um Bootcamp estruturado. Meu objetivo é dominar APIs RESTful, Spring Boot, banco de dados (JDBC) e integrar tudo isso com conceitos de Inteligência Artificial e Copilots.
 
-## Habilidades 
-![C#](https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp_256x256.png)
-![.NET](https://styles.redditmedia.com/t5_2qh3h/styles/communityIcon_s4j823izlmu91.png)
-![API](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQynjzQN9p_VZrN8v4q7xese_NbAvFlgROOE-xb0Hz1Q9qA7Ru2tmUVsa3YTmzXG5J1GHQ&usqp=CAU)
-![WPF](https://www.westagilelabs.com/wp-content/uploads/2022/10/6-wpf.png)
-
+GitHub: https://github.com/ThalitaNK (Em atualização)
+Linkedin: https://www.linkedin.com/in/thalita-meira-pcd-47ba1721b/
